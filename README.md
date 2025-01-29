@@ -29,8 +29,8 @@ This project implements an adaptive background subtraction algorithm based on **
 ## Results
 
 The system successfully segments video frames into:
-  **Foreground objects:** Detecting and tracking moving objects in the scene.
-  **Background models:** Dynamically learning and adapting to the static parts of the scene.
+ - **Foreground objects:** Detecting and tracking moving objects in the scene.
+ - **Background models:** Dynamically learning and adapting to the static parts of the scene.
 
 ## References
   - Stauffer, C., & Grimson, W. E. L. (1999). Adaptive Background Mixture Models for Real-Time Tracking.
