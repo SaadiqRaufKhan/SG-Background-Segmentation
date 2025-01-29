@@ -22,9 +22,9 @@ This project implements an adaptive background subtraction algorithm based on **
 
 ## Videos
 
-**Original Video:** [Link to Original Video](https://drive.google.com/file/d/1li4pvfcCzcc1B5HhWr6FeedATnYy7V6v/view?usp=sharing)
-**Foreground Segmentation:** [Link to Foreground Video](https://drive.google.com/file/d/1czujopOJfvR2byIC37UBrUXVHLLbgYes/view?usp=sharing)
-**Background Model:** [Link to Background Video](https://drive.google.com/file/d/1Q0AQ2syGgpdeJzkQd9ksMJGgq_xYOPgT/view?usp=sharing)
+- **Original Video:** [Link to Original Video](https://drive.google.com/file/d/1li4pvfcCzcc1B5HhWr6FeedATnYy7V6v/view?usp=sharing)
+- **Foreground Segmentation:** [Link to Foreground Video](https://drive.google.com/file/d/1czujopOJfvR2byIC37UBrUXVHLLbgYes/view?usp=sharing)
+- **Background Model:** [Link to Background Video](https://drive.google.com/file/d/1Q0AQ2syGgpdeJzkQd9ksMJGgq_xYOPgT/view?usp=sharing)
 
 ## Results
 
